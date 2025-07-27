@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on a website project using React and NodeJS
-- 🌱 I’m currently learning Data Engeneering in Python and Fullstack
+- 🌱 I’m currently learning CyberSecurity and FullStack
 
 <div>
   <a href="https://github.com/matheuspolim42" />
